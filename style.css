@@ -1,0 +1,106 @@
+#wrapper {
+	
+min-height: 100%;
+position: relative;
+width: 960px;
+margin-right: auto;
+margin-left: auto;
+background-color: #0F380F;
+font-family: courier new, arial;
+font-size: 1.2vw; 
+}
+
+#icke {
+	
+	border-style: dashed;
+	max-width:25%; 
+	border-width: 1px;
+	border-color: #9BBC0F;
+	
+	
+}
+
+header {
+
+text-align: bottom-left;
+font-family: courier new;
+font-size: 78px;
+height: 200px;
+
+}
+
+nav {
+	text-align: centre;
+	
+}
+
+nav ul {
+	
+	list-style-type: none;
+}
+
+nav li {
+	
+	display: inline;
+	margin-right: 40px;
+
+}
+
+a {
+	
+	color: #8BAC0F;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+body {
+	background-color: black;
+	height:100%;
+	padding: 0%;
+	margin: 0%;
+}
+
+html {
+	
+	height:100%;
+	padding: 0%;
+	margin: 0%;
+}
+
+section {
+	width: 100%;
+	height: 100%;
+	float: left;
+	background: #306230;
+	text-align: center;
+	position:absolute;	
+}
+
+footer {
+	font-size: 1.2vw;
+	height: 20%;
+	background: #9BBC0F;
+	position:absolute;
+	width:100%;
+	bottom: -724px;
+	float: top;
+}
+
+table, th, td {
+    border: 1px solid black;
+	padding: 4px;
+}
+
+
+.impressum {
+	
+	width: 5px;
+	float: left;
+	
+}
+
+.rechtliches {
+	
+	width:25%;
+	float: right;
+}
